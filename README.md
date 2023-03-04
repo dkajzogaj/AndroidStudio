@@ -1,7 +1,9 @@
 # AndroidStudio
 Project made for college in AndroidStudio(Dart). This project was part of github but it was made with github associated to my college so it doesn't have any issues or branches and doesn't have any documentation.  
 
-Contributors: Hrvoje Lukšić, Noa Midžić.
+Contributors: Hrvoje Lukšić, Noa Midžić.  
+
+https://github.com/davidkajzogaj/rampu22-hluksic20-nmidzic20-dkajzogaj20
 
 # GeoGallery
 
